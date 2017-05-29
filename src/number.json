@@ -1,0 +1,211 @@
+[{
+    "state": "free",
+    "name": "bla bla bla",
+    "img": "http://svitmalechi.com.ua/wp-content/uploads/2013/12/dytjacha_kimnata_dlja_dvoh_ditej31.jpg",
+    "room": "1",
+    "price": "300",
+    "description": "LLORa ipsum dolor sit amet, consectetur adipisicing elit. Quae dignissimos nobis in ab eaque ipsum saepe architecto necessitatibus aliquid voluptatem ratione, numquam voluptas officiis ex omnis accusamus, dolor adipisci cumque?",
+    "typeRoom": "Економ",
+    "typeBed": "односпальне ліжко",
+    "data": {
+        "start": "20.02.2017",
+        "end": "20.12.2017",
+        "days": "10"
+    },
+
+    "addService": {
+        "serv1": ["сніданок", "15"],
+        "serv2": ["обід", "225"],
+        "serv3": ["вучеря", "11"],
+        "serv4": ["ескорт", "442"]
+    },
+    "parameters": {
+        "balcony": "бар",
+        "condition": "балкон",
+        "bar": "кондиціонер",
+        "soundproofing": "звукоізоляція"
+    }
+}, {
+    "state": "free",
+    "name": "bla bla bla",
+    "img": "http://trembita.in.ua/images/solyana/solyana_1.jpg",
+    "room": "2",
+    "price": "650",
+    "description": "LLORa ipsum dolor sit amet, consectetur adipisicing elit. Quae dignissimos nobis in ab eaque ipsum saepe architecto necessitatibus aliquid voluptatem ratione, numquam voluptas officiis ex omnis accusamus, dolor adipisci cumque?",
+    "typeRoom": "Полулюкс",
+    "typeBed": "двоспальне ліжко",
+    "data": {
+        "start": "20.02.2017",
+        "end": "20.12.2017",
+        "days": "10"
+    },
+    "addService": {
+        "serv1": ["сніданок", "15"],
+        "serv2": ["обід", "225"],
+        "serv3": ["вучеря", "11"],
+        "serv4": ["ескорт", "442"]
+    },
+    "parameters": {
+        "balcony": "бар",
+        "condition": "балкон",
+        "soundproofing": "звукоізоляція"
+    }
+},{
+    "state": "free",
+    "name": "bla bla bla",
+    "img": "http://4.bp.blogspot.com/-9wmp4Fdpv_U/UVDQOLhNGKI/AAAAAAAAIQ4/W4In7Iyp5PA/s400/%D0%B3%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F.jpg",
+    "room": "3",
+    "price": "750",
+    "description": "LLORa ipsum dolor sit amet, consectetur adipisicing elit. Quae dignissimos nobis in ab eaque ipsum saepe architecto necessitatibus aliquid voluptatem ratione, numquam voluptas officiis ex omnis accusamus, dolor adipisci cumque?",
+    "typeRoom": "Полулюкс",
+    "typeBed": "двоспальне ліжко",
+    "data": {
+        "start": "20.02.2017",
+        "end": "20.12.2017",
+        "days": "10"
+    },
+    "addService": {
+        "serv1": ["сніданок", "15"],
+        "serv2": ["обід", "225"],
+        "serv3": ["вучеря", "11"],
+        "serv4": ["ескорт", "442"]
+    },
+    "parameters": {
+        "balcony": "бар",
+        "condition": "балкон",
+        "bar": "кондиціонер",
+        "soundproofing": "звукоізоляція"
+    }
+},{
+    "state": "free",
+    "name": "bla bla bla",
+    "img": "http://yakrobitiremont.pp.ua/wp-content/uploads/2014/10/malenka-dityacha-kimnata-dlya-divchinki-19.jpg",
+    "room": "3",
+    "price": "720",
+    "description": "LLORa ipsum dolor sit amet, consectetur adipisicing elit. Quae dignissimos nobis in ab eaque ipsum saepe architecto necessitatibus aliquid voluptatem ratione, numquam voluptas officiis ex omnis accusamus, dolor adipisci cumque?",
+    "typeRoom": "Полулюкс",
+    "typeBed": "односпальне ліжко",
+    "data": {
+        "start": "20.02.2017",
+        "end": "20.12.2017",
+        "days": "10"
+    },
+    "addService": {
+        "serv1": ["сніданок", "15"],
+        "serv2": ["обід", "225"],
+        "serv3": ["вучеря", "11"],
+        "serv4": ["ескорт", "442"]
+    },
+    "parameters": {
+        "balcony": "бар",
+        "condition": "балкон",
+        "bar": "кондиціонер",
+        "soundproofing": "звукоізоляція"
+    }
+},{
+    "state": "free",
+    "name": "bla bla bla",
+    "img": "http://yakrobitiremont.pp.ua/wp-content/uploads/2015/01/svitla-dityacha-kimnata-0.jpg",
+    "room": "3",
+    "price": "1224",
+    "description": "LLORa ipsum dolor sit amet, consectetur adipisicing elit. Quae dignissimos nobis in ab eaque ipsum saepe architecto necessitatibus aliquid voluptatem ratione, numquam voluptas officiis ex omnis accusamus, dolor adipisci cumque?",
+    "typeRoom": "Дюплекс",
+    "typeBed": "двоспальне ліжко",
+    "data": {
+        "start": "20.02.2017",
+        "end": "20.12.2017",
+        "days": "10"
+    },
+
+    "addService": {
+        "serv1": ["сніданок", "15"],
+        "serv2": ["обід", "225"],
+        "serv3": ["вучеря", "11"],
+        "serv4": ["ескорт", "442"]
+    },
+    "parameters": {
+        "bar": "кондиціонер",
+        "soundproofing": "звукоізоляція"
+    }
+},{
+    "state": "free",
+    "name": "bla bla bla",
+    "img": "https://bigmirledy.com/wp-content/uploads/2016/02/Dytyacha-kimnata-rozroblyayemo-dyzajn-samostijno.jpg",
+    "room": "4",
+    "price": "2024",
+    "description": "LLORa ipsum dolor sit amet, consectetur adipisicing elit. Quae dignissimos nobis in ab eaque ipsum saepe architecto necessitatibus aliquid voluptatem ratione, numquam voluptas officiis ex omnis accusamus, dolor adipisci cumque?",
+    "typeRoom": "Сімейний",
+    "typeBed": "односпальне ліжко",
+    "data": {
+        "start": "20.02.2017",
+        "end": "20.12.2017",
+        "days": "10"
+    },
+
+    "addService": {
+        "serv1": ["сніданок", "15"],
+        "serv2": ["обід", "225"],
+        "serv3": ["вучеря", "11"],
+        "serv4": ["ескорт", "442"]
+    },
+    "parameters": {
+        "balcony": "бар",
+        "condition": "балкон",
+        "bar": "кондиціонер"
+    }
+},{
+    "state": "free",
+    "name": "bla bla bla",
+    "img": "http://www.cre8tivez.org/images/komnata_dlja_budushego_otlichnika_10.jpg",
+    "room": "4",
+    "price": "3224",
+    "description": "LLORa ipsum dolor sit amet, consectetur adipisicing elit. Quae dignissimos nobis in ab eaque ipsum saepe architecto necessitatibus aliquid voluptatem ratione, numquam voluptas officiis ex omnis accusamus, dolor adipisci cumque?",
+    "typeRoom": "Люкс",
+    "typeBed": "односпальне ліжко",
+    "data": {
+        "start": "20.02.2017",
+        "end": "20.12.2017",
+        "days": "10"
+    },
+
+    "addService": {
+        "serv1": ["сніданок", "15"],
+        "serv2": ["обід", "225"],
+        "serv3": ["вучеря", "11"],
+        "serv4": ["ескорт", "442"]
+    },
+    "parameters": {
+        "balcony": "бар",
+        "condition": "балкон",
+        "bar": "кондиціонер",
+        "soundproofing": "звукоізоляція"
+    }
+},{
+    "state": "free",
+    "name": "bla bla bla",
+    "img": "http://radymo.pp.ua/foto/1/image_4243.jpg",
+    "room": "1",
+    "price": "350",
+    "description": "LLORa ipsum dolor sit amet, consectetur adipisicing elit. Quae dignissimos nobis in ab eaque ipsum saepe architecto necessitatibus aliquid voluptatem ratione, numquam voluptas officiis ex omnis accusamus, dolor adipisci cumque?",
+    "typeRoom": "Економ",
+    "typeBed": "двоспальне ліжко",
+    "data": {
+        "start": "20.02.2017",
+        "end": "20.12.2017",
+        "days": "10"
+    }
+},{
+    "state": "free",
+    "name": "bla bla bla",
+    "img": "http://4.bp.blogspot.com/-KOtAaGvagDM/UJhijRhLATI/AAAAAAAAdMI/su67DN2RO44/s640/Sala+%C3%8Dntima.jpg",
+    "room": "2",
+    "price": "380",
+    "description": "LLORa ipsum dolor sit amet, consectetur adipisicing elit. Quae dignissimos nobis in ab eaque ipsum saepe architecto necessitatibus aliquid voluptatem ratione, numquam voluptas officiis ex omnis accusamus, dolor adipisci cumque?",
+    "typeRoom": "Економ",
+    "typeBed": "односпальне ліжко",
+    "data": {
+        "start": "20.02.2017",
+        "end": "20.12.2017",
+        "days": "10"
+    }
+}]
